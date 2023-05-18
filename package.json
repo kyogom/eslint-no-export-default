@@ -1,5 +1,5 @@
 {
-  "name": "eslint-no-export-default",
+  "name": "eslint-plugin-no-export-default",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kyogom/eslint-no-export-default.git"
+    "url": "git+https://github.com/kyogom/eslint-plugin-no-export-default.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kyogom/eslint-no-export-default/issues"
+    "url": "https://github.com/kyogom/eslint-plugin-no-export-default/issues"
   },
-  "homepage": "https://github.com/kyogom/eslint-no-export-default#readme"
+  "homepage": "https://github.com/kyogom/eslint-plugin-no-export-default#readme"
 }
