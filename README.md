@@ -2,7 +2,7 @@
 
 ## Install Package
 
-npm install git://github.com/kyogom/eslint-plugin-no-export-default -D
+`npm install git://github.com/kyogom/eslint-plugin-no-export-default -D`
 
 ## Edit .eslintrc.js
 
